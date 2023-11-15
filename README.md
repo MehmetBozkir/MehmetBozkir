@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Just a guy fascinated by Tech</h1>
+<h1 align="center"> 👋 Hi , I'm Just a guy fascinated by Tech</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 
