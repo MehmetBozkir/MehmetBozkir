@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Just a guy fascinated by Tech</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **everything about software**
+-👋 Hi, I’m Just a guy fascinated by Tech
 
-- 👋 Hi, I’m Just a guy fascinated by Tech
+- 🌱 I’m currently learning **everything about software**
 
 - 😄 Interested **in Game, App & Front End Dev**
 
