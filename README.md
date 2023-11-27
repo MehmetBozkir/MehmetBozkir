@@ -51,8 +51,9 @@ printf("hello world")
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
 
-#
+## 📊 Github stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetBozkir&layout=compact)](https://github.com/natgho/github-readme-stats)
+
 
 #
 
