@@ -33,6 +33,7 @@ printf("hello world")
 # 📕 Blog Posts
 
 - [What is HTML and Basic Elements](https://medium.com/@mehmetsalihbozkir/what-is-html-and-basic-elements-e7c95b7fe655)
+- [CSS Guide: Fundamental Concepts & Selectors](https://medium.com/@mehmetsalihbozkir/css-guide-fundamental-concepts-selectors-7ef552ffb60b)
 
 
 # Connect with me
