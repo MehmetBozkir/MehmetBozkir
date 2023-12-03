@@ -30,11 +30,17 @@
 printf("hello world")
 ```
 <br><br>
+# 📕 Blog Posts
+
+- [What is HTML and Basic Elements](https://medium.com/@mehmetsalihbozkir/what-is-html-and-basic-elements-e7c95b7fe655)
+
 
 # Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/mehmet-salih-bozkır" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mehmet-salih-bozkır" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mehmet-salih-bozkır" height="60" width="100" /></a>
+<a href="https://medium.com/@mehmetsalihbozkir" target="blank">
+<img align="center" src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" width="100" alt="https://medium.com/@mehmetsalihbozkir" height="60"  /></a>
 </p>
 <br>
 
