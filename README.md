@@ -36,7 +36,7 @@ printf("hello world")
 
 [![Mehmet Salih Bozkir Blog](https://github-readme-medium.vercel.app/?username=mehmetsalihbozkir&limit=3&theme=nord)](https://medium.com/@mehmetsalihbozkir)
 
-# Connect with me
+# ✉️ Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/mehmet-salih-bozkır" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mehmet-salih-bozkır" height="60" width="100" /></a>
@@ -49,7 +49,7 @@ printf("hello world")
 <!--- -- Skills Section ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-# Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
+# <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">  Skills
 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
@@ -58,9 +58,10 @@ printf("hello world")
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="100">
 
 ## 📊 Github stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetBozkir&layout=compact)](https://github.com/natgho/github-readme-stats)
+![Mehmet Salih Bozkir's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehmetBozkir&show_icons=true&theme=vue-dark)
+[![Mehmet Salih Bozkir's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetBozkir&layout=compact&theme=vue-dark)](https://github.com/MehmetBozkir/github-readme-stats)
 
 
 #
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="2000" height="300" >
