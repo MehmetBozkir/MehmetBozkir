@@ -42,6 +42,8 @@ printf("hello world")
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mehmet-salih-bozkır" height="60" width="100" /></a>
 <a href="https://medium.com/@mehmetsalihbozkir" target="blank">
 <img align="center" src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" width="100" alt="https://medium.com/@mehmetsalihbozkir" height="60"  /></a>
+<a href="https://stackoverflow.com/users/23094164/mehmet-salih-bozk%c4%b1r" target="blank">
+<img align="center" src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg" width="100" alt="https://stackoverflow.com/users/23094164/mehmet-salih-bozk%c4%b1r" height="60"  /></a>
 </p>
 <br>
 
