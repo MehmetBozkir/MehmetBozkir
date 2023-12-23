@@ -1,12 +1,11 @@
-<img src="https://i.hizliresim.com/c00h237.jpeg" height="150" width="2000">
-
-<h1 align="center"> <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; Hi , I'm Just a guy fascinated by Tech &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+<h1 align="center"> 
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5800F7&random=false&width=435&lines=Hi%2CI'm+Just+a+guy+fascinated+by+Tech;-----Junior+Front-End+Developer------" width="500px" /> <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 </h1>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------- -->
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A Passionate Frontend Developer</h3>
 
 
 - 🌱 I’m currently learning **Everything About Software**
@@ -26,7 +25,7 @@
 >Html
 >>Css
 >>>javascript
->>>>Node.js
+>>>>React
 
 ```
 printf("hello world")
