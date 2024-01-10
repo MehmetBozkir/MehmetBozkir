@@ -33,7 +33,7 @@ printf("hello world")
 <br><br>
 # 📕 Blog Posts
 
-[![Mehmet Salih Bozkir Blog](https://github-readme-medium.vercel.app/?username=mehmetsalihbozkir&limit=6&theme=nord)](https://medium.com/@mehmetsalihbozkir)
+[![Mehmet Salih Bozkir Blog](https://github-readme-medium.vercel.app/?username=mehmetsalihbozkir&limit=7&theme=nord)](https://medium.com/@mehmetsalihbozkir)
 
 # ✉️ Connect with me
 <p align="left">
