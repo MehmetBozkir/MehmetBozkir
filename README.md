@@ -18,7 +18,7 @@
 
 - ⚡Fun fact **I LOVE RIDING A RACE ENGINE**
   
-- 🚢 I love traveling **That's Why I Am a Level 7 Google Local Guide**
+- 🚢 I love traveling **That's Why I Am a Level 8 Google Local Guide**
 
 <h3 align="left">What am I working on:</h3>
 
@@ -68,10 +68,15 @@ printf("hello world")
 <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" width="100">
+<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="100">
+<img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="90">
 
 ## 📊 Github stats
-![Mehmet Salih Bozkir's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehmetBozkir&show_icons=true&theme=vue-dark)
-[![Mehmet Salih Bozkir's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetBozkir&layout=compact&theme=vue-dark)](https://github.com/MehmetBozkir/github-readme-stats)
+![Mehmet Salih Bozkir's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehmetBozkir&show_icons=true&&include_all_commits=true&ring_color=703ee5&title_color=5215fc&text_color=262552&icon_color=703ee5)
+[![Mehmet Salih Bozkir's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetBozkir&layout=compact&title_color=5215fc&text_color=262552&text_bold=true)](https://github.com/MehmetBozkir/github-readme-stats)
 
 
 #
