@@ -33,7 +33,11 @@ printf("hello world")
 <br><br>
 # 📕 Blog Posts
 
-[![Mehmet Salih Bozkir Blog](https://github-readme-medium.vercel.app/?username=mehmetsalihbozkir&limit=7&theme=nord)](https://medium.com/@mehmetsalihbozkir)
+[![Mehmet Salih Bozkir Blog](https://github-readme-medium.vercel.app/?username=mehmetsalihbozkir&limit=3&theme=nord)](https://medium.com/@mehmetsalihbozkir)
+- [Strengthen CSS: SCSS/SASS](https://medium.com/@mehmetsalihbozkir/strengthen-css-scss-sass-30b0d602af7b)
+- [What is Markdown And What Can Be Done?](https://medium.com/@mehmetsalihbozkir/what-is-markdown-and-what-can-be-done-d6bfe7ca09b7)
+- [CSS Guide: Fundamental Concepts & Selectors](https://medium.com/@mehmetsalihbozkir/css-guide-fundamental-concepts-selectors-7ef552ffb60b)
+- [What is HTML and Basic Elements](https://medium.com/@mehmetsalihbozkir/what-is-html-and-basic-elements-e7c95b7fe655)
 
 # ✉️ Connect with me
 <p align="left">
