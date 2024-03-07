@@ -80,6 +80,7 @@ printf("hello world")
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png" width="100">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" width="100">
 <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="90">
+<img src="https://img.stackshare.io/service/11559/zustand.png" width="130">
 
 ## 📊 Github stats
 ![Mehmet Salih Bozkir's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehmetBozkir&show_icons=true&&include_all_commits=true&ring_color=703ee5&title_color=5215fc&text_color=262552&icon_color=703ee5)
