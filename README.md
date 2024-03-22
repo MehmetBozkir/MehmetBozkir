@@ -45,14 +45,17 @@ printf("hello world")
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="60" width="100" /></a>
 <a href="https://medium.com/@mehmetsalihbozkir" target="blank">
 <img align="center" src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" width="100" alt="Medium" height="60"  /></a>
+<a href="https://linktr.ee/MehmetSalihBozkir" target="blank">
+<img align="center" src="https://logowik.com/content/uploads/images/linktree-new-2022-favicon8503.logowik.com.webp" width="100" alt="Linktree" height="90"  /></a>
 <a href="https://stackoverflow.com/users/23094164/mehmet-salih-bozk%c4%b1r" target="blank">
 <img align="center" src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg" width="100" alt="Stackoverflow" height="60"  /></a>
 <a href="https://codepen.io/MehmetBozkir" target="blank">
 <img align="center" src="https://edent.github.io/SuperTinyIcons/images/svg/codepen.svg" width="100" alt="Codepen" height="60"  /></a>
 <a href="https://www.npmjs.com/~mehmet_salih_bozkir" target="blank">
 <img align="center" src="https://edent.github.io/SuperTinyIcons/images/svg/npm.svg" width="100" alt="NPM" height="90"  /></a>
-<a href="https://linktr.ee/MehmetSalihBozkir" target="blank">
-<img align="center" src="https://logowik.com/content/uploads/images/linktree-new-2022-favicon8503.logowik.com.webp" width="100" alt="Linktree" height="90"  /></a>
+<a href="https://dev.to/mehmetsalihbozkir" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="80" alt="Dev.to" height="80"  /></a>
+</a>
 </p>
 <br>
 
