@@ -16,20 +16,10 @@
 
 - 📫 How to reach me **Email - mehmetsalihbozkir@gmail.com**
 
-- ⚡Fun fact **I LOVE RIDING A RACE ENGINE**
+- ⚡ Fun fact **I LOVE RIDING A RACE ENGINE**
   
 - 🚢 I love traveling **That's Why I Am a Level 8 Google Local Guide**
 
-<h3 align="left">What am I working on:</h3>
-
->Html
->>Css
->>>javascript
->>>>React
-
-```
-printf("hello world")
-```
 <br><br>
 # 📕 Blog Posts
 
