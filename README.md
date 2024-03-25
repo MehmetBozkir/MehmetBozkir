@@ -74,6 +74,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" width="100">
 <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="90">
 <img src="https://img.stackshare.io/service/11559/zustand.png" width="130">
+<img src="https://testing-library.com/img/octopus-128x128.png" width="90">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4LInHsKyGe847qaj_-Dgwq_i5Q7WTYr9weSN8K6cpTA&s" width="90">
+<img src="https://vitest.dev/logo.svg" width="90">
 
 ## 📊 Github stats
 ![Mehmet Salih Bozkir's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehmetBozkir&show_icons=true&&include_all_commits=true&ring_color=703ee5&title_color=5215fc&text_color=262552&icon_color=703ee5)
