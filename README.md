@@ -24,15 +24,15 @@
 
 # ✉️ Connect with me
 <p align="left">
-<a href="https://www.linkedin.com/in/mehmet-salih-bozkır" target="blank">
+<a href="https://www.linkedin.com/in/mehmet-salih-bozkır" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="60" width="100" /></a>
-<a href="https://medium.com/@mehmetsalihbozkir" target="blank">
+<a href="https://medium.com/@mehmetsalihbozkir" target="_blank">
 <img align="center" src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" width="100" alt="Medium" height="60"  /></a>
-<a href="https://linktr.ee/MehmetSalihBozkir" target="blank">
+<a href="https://linktr.ee/MehmetSalihBozkir" target="_blank">
 <img align="center" src="https://logowik.com/content/uploads/images/linktree-new-2022-favicon8503.logowik.com.webp" width="100" alt="Linktree" height="90"  /></a>
-<a href="https://stackoverflow.com/users/23094164/mehmet-salih-bozk%c4%b1r" target="blank">
+<a href="https://stackoverflow.com/users/23094164/mehmet-salih-bozk%c4%b1r" target="_blank">
 <img align="center" src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg" width="100" alt="Stackoverflow" height="60"  /></a>
-<a href="https://www.npmjs.com/~mehmet_salih_bozkir" target="blank">
+<a href="https://www.npmjs.com/~mehmet_salih_bozkir" target="_blank">
 <img align="center" src="https://edent.github.io/SuperTinyIcons/images/svg/npm.svg" width="100" alt="NPM" height="90"  /></a>
 </a>
 </p>
