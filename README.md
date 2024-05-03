@@ -5,7 +5,7 @@
 <h3 align="center">A Passionate Front-End Developer</h3> <hr/>
 
 
-- 🌱 I’m currently learning **Everything About Software**
+- 🌱 I’m **Intern Front-End Developer at Suforia**
 
 - 😄 Interested **in Game App & Front End Dev**
 
