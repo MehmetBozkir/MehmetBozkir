@@ -7,8 +7,6 @@
 
 - 🌱 I’m **Intern Front-End Developer at Suforia**
 
-- 😄 Interested **in Game App & Front End Dev**
-
 - 🤝 I’m looking for help with **Exploring New Technologies.**
 
 - 📫 How to reach me **Email - mehmetsalihbozkir@gmail.com**
