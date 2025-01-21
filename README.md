@@ -27,7 +27,7 @@
 <a href="https://medium.com/@mehmetsalihbozkir" target="_blank">
 <img align="center" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" width="80" alt="Medium" height="80"  /></a>
 <a href="https://linktr.ee/MehmetSalihBozkir" target="_blank">
-<img align="center" src="https://seeklogo.com/images/L/linktree-logo-6FC3ADB679-seeklogo.com.png" width="60" alt="Linktree" height="60"  /></a>
+<img align="center" src="https://github.com/user-attachments/assets/9c53cdc4-2fb7-480f-8b04-ecc1443d3359" alt="Linktree" height="100" width="100" /></a>
 <a href="https://stackoverflow.com/users/23094164/mehmet-salih-bozk%c4%b1r" target="_blank">
 <img align="center" src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg" width="100" alt="Stackoverflow" height="60"  /></a>
 <a href="https://www.npmjs.com/~mehmet_salih_bozkir" target="_blank">
